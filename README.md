@@ -28,7 +28,7 @@ Visualizador interactivo de patrones numéricos usando OpenGL. Carga datos desde
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/patron-primo-opengl.git
+   git clone https://github.com/sebolla-gif/Visualizador-de-datos-en-coordenadas-polares-OpenGL-.git
    ```
 2. **Compila el proyecto:**
    Ajusta el nombre del archivo fuente si es necesario (en este ejemplo se asume que el código se encuentra en `main.cpp`):
