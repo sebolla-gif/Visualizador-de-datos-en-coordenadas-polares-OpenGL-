@@ -1,5 +1,7 @@
 # Patrón de Numeros Primos en Coordenadas Polares (OpenGL)
 
+![Untitled-video-Made-with-Clipchamp-_3_](https://github.com/user-attachments/assets/0c3cd220-b8b9-40d2-ae4f-b7da0a3115c0)
+
 ![OpenGL](https://img.shields.io/badge/OpenGL-1.0+-green)
 ![GLUT](https://img.shields.io/badge/GLUT-3.7+-blue)
 
