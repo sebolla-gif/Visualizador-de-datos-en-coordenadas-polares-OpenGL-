@@ -45,6 +45,10 @@ Visualizador interactivo de patrones numéricos usando OpenGL. Carga datos desde
 
 El repositorio cuenta con una carpeta `bin`, la misma contiene un ejecutable `main.exe` y los archivos binarios que contienen los numeros primos `400k`,`1M`,`10M`.
 
+> [!NOTE]
+> Para ejecurar el `main.exe` tambien se deben agregar los `.dll` que estan en la carpeta `glut-3.7.6-bin`
+>
+
 ### Controles:
 - **Zoom:** `+` / `-` o clic izquierdo (zoom in) y clic derecho (zoom out).
 - **Movimiento:** Teclas `W`, `A`, `S`, `D` para desplazar la vista.
