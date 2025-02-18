@@ -90,7 +90,7 @@ En caso de ejecutar el `main.exe` se debe asegurar que el binario este en la rai
 El archivo debe contener un array de `unsigned long int` en orden crudo. Se recomienda un tamaño de aproximadamente 400,000 elementos para visualizar un patrón interesante.
 
 ## Mejoras futuras
-- Implementar VBOs para mejorar el rendimiento del renderizado. (Para esto se debe trabajar con versiones mas actuales de OGL)
+- Implementar VBOs para mejorar el rendimiento del renderizado. (Para esto se debe trabajar con versiones mas actuales de OpenGL)
 - Añadir soporte para múltiples archivos de datos. (Ej .txt)
 - Desarrollar una interfaz gráfica para la selección de archivos. (QT)
 - Incluir modos de visualización alternativos. (3D)
